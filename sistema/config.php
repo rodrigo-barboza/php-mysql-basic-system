@@ -1,3 +1,8 @@
+/* 
+*	AUTOR: RODRIGO BARBOZA
+*	DATA: 21/03/2020
+*/
+
 <?php
 	// php version: 7.2.28
 	
