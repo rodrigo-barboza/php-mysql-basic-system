@@ -1,3 +1,8 @@
+/* 
+*	AUTOR: RODRIGO BARBOZA
+*	DATA: 21/03/2020
+*/
+
 <?php
 	// aqui serão listados os registros do banco de dados 
 	include ('config.php');
